@@ -1,0 +1,1 @@
+# puppetlabs-nagios_core
